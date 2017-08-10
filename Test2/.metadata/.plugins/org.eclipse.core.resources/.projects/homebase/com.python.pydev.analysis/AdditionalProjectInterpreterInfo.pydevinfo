@@ -1,0 +1,38 @@
+-- VERSION_4
+-- START DISKCACHE_2
+F:\PythonProjects\Test2\.metadata\.plugins\org.eclipse.core.resources\.projects\homebase\com.python.pydev.analysis\v2_indexcache
+homebase.urls|1501696947366585000|F:\PythonProjects\Test\homebase\src\homebase\urls.py
+homebase.wsgi|1501696947380610000|F:\PythonProjects\Test\homebase\src\homebase\wsgi.py
+homebase.__init__|1501696947381593000|F:\PythonProjects\Test\homebase\src\homebase\__init__.py
+homebase.settings|1501696947510402000|F:\PythonProjects\Test\homebase\src\homebase\settings.py
+manage|1501696947328000000|F:\PythonProjects\Test\homebase\src\manage.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=homebase.urls
+2=homebase.wsgi
+1=homebase.settings
+-- END DICTIONARY
+-- START TREE 1
+17
+all|1|ALLOWED_HOSTS!11@
+app|1|application!19@
+aut|1|AUTH_PASSWORD_VALIDATORS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|1|STATIC_URL!11@
+tem|1|TEMPLATES!11@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!27@
+use|3|USE_I18N!11@USE_TZ!11@USE_L10N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

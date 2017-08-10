@@ -1,0 +1,6 @@
+MODULES_MANAGER_V2
+homebase.__init__|F:\PythonProjects\Test\homebase\src\homebase\__init__.py
+homebase.settings|F:\PythonProjects\Test\homebase\src\homebase\settings.py
+homebase.urls|F:\PythonProjects\Test\homebase\src\homebase\urls.py
+homebase.wsgi|F:\PythonProjects\Test\homebase\src\homebase\wsgi.py
+manage|F:\PythonProjects\Test\homebase\src\manage.py
